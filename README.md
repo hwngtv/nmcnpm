@@ -5,6 +5,7 @@
 3. cd frontend rồi npm i
 4. cd backend, chạy npm run dev
 
+
    Các nick đăng nhập
    1. Admin
       email: rivershen1@gmail.com
